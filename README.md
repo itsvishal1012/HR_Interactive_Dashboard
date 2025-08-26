@@ -69,8 +69,8 @@ for workforce management.
 2.  Clone this repository:
 
     ``` bash
-    git clone https://github.com/your-username/HR-Analytics-Dashboard.git
-    cd HR-Analytics-Dashboard
+    git clone https://github.com/itsvishal1012/HR_Interactive_Dashboard.git
+    cd HR_Interactive_Dashboard
     ```
 
 3.  Open **Power BI Desktop**.\
@@ -83,14 +83,6 @@ for workforce management.
 5.  Recreate visualizations or open the `.pbix` file (if provided).\
 
 6.  Explore the interactive HR Dashboard!
-
-------------------------------------------------------------------------
-
-## 📸 Dashboard Preview
-
-![Dashboard Preview](HR_DASHBOARD.png)\
-*(Optional: Add a screenshot of your Power BI dashboard for better
-presentation)*
 
 ------------------------------------------------------------------------
 
@@ -122,6 +114,6 @@ Contributions are welcome!\
 
 ## 📧 Contact
 
-👤 **Vishal Singh**\
-📩 \[your-email@example.com\]\
-🔗 \[LinkedIn/GitHub Profile Link\]
+👤 Vishal Singh
+📩 vishalsaini0328@gmail.com
+
